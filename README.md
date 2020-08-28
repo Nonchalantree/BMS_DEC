@@ -16,7 +16,9 @@ Games that use BMS include (probably not a comprehensive list):
   * Donkey Kong Jungle Beat (supported, BMS_DE~1)
 
 How to use
+
  For Windows:
+
  Open cmd.exe (ctrl R, type "cmd" in the box)
  Drag the executable to the window, DO NOT PRESS ENTER. Press space.
  To insert the first argument, drag the BMS file to the window. Press space.

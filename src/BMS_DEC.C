@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdbool.h>
 
 int notes[8];
 int tracknum=0;

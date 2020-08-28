@@ -13,9 +13,7 @@ Games that use BMS include (probably not a comprehensive list):
   * Zelda Wind Waker (untested)
   * Pikmin 2 (untested)
   * Zelda Twilight Princess (untested)
-  * Donkey Kong Jungle Beat (supported, BMS_DE~1)
-
-How to use
+  * Donkey Kong Jungle Beat (supported, BMS_DE~1
 
  For Windows:
 
